@@ -26,8 +26,9 @@ A document question-answering application that retrieves relevant information to
 - Vector search with metadata filtering
 - Context-aware responses with insufficient-information handling
 
-**Stack:** Python · FastAPI · GPT-4 · LangChain · RAG · PostgreSQL · Vector database  
-[View the project](https://github.com/Meet270504/enterprise-genai-knowledge-assistant)
+**Stack:** Python · FastAPI · GPT-4 · LangChain · RAG · PostgreSQL · Vector database
+
+**Links:** [🌐 Live Demo](https://enterprise-knowledge-assistant-43nr.onrender.com/) · [💻 Source Code](https://github.com/Meet270504/Enterprise-Knowledge-Assistant)
 
 ### ⚙️ Cloud-Native Microservices Order Management Platform
 
