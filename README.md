@@ -1,4 +1,4 @@
-<h1 align="center">Meet Kevadia</h1>
+<h1 align="center">Meet Kevadia 👋</h1>
 
 <p align="center">
   <strong>Software Development Engineer · Backend Systems · Cloud · Applied AI</strong>
@@ -16,9 +16,9 @@
 
 I build backend services, APIs, and AI-powered applications. My experience includes Python and Java development, cloud-native deployments, and retrieval-augmented generation (RAG) for document search.
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### 01 · Enterprise Generative AI Knowledge Assistant
+### 🧠 Enterprise Generative AI Knowledge Assistant
 
 A document question-answering application that retrieves relevant information to support grounded responses.
 
@@ -27,9 +27,9 @@ A document question-answering application that retrieves relevant information to
 - Context-aware responses with insufficient-information handling
 
 **Stack:** Python · FastAPI · GPT-4 · LangChain · RAG · PostgreSQL · Vector database  
-[View the project](https://github.com/Meet270504/Enterprise-Knowledge-Assistant)
+[View the project](https://github.com/Meet270504/enterprise-genai-knowledge-assistant)
 
-### 02 · Cloud-Native Microservices Order Management Platform
+### ⚙️ Cloud-Native Microservices Order Management Platform
 
 A service-based application for managing order workflows with event-driven communication.
 
@@ -38,9 +38,9 @@ A service-based application for managing order workflows with event-driven commu
 - Docker and Kubernetes deployment setup
 
 **Stack:** Java · Spring Boot · Kafka · PostgreSQL · Redis · Docker · Kubernetes  
-[View the project](https://github.com/Meet270504/Cloud-Native-Order-Management)
+[View the project](https://github.com/Meet270504/cloud-native-order-management)
 
-## Technical Focus
+## 🛠️ Technical Focus
 
 **Languages:** Python, Java, JavaScript, TypeScript, SQL  
 **Backend:** FastAPI, Spring Boot, Node.js, Express, Flask, REST APIs  
@@ -48,7 +48,7 @@ A service-based application for managing order workflows with event-driven commu
 **Cloud:** AWS, Docker, Kubernetes, GitHub Actions  
 **Data:** PostgreSQL, MySQL, Redis, Kafka
 
-## Currently
+## 🎓 Currently
 
 Completing my B.S. in Computer Science at San Francisco State University.  
 Interested in backend engineering, distributed systems, and applied AI.
